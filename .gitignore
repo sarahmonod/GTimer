@@ -1,0 +1,15 @@
+# Compiled Files #
+**/*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mac Files #
+*.DS_Store
+
+# Project Files #
+.classpath
+.project
+.settings
